@@ -1,0 +1,14 @@
+source/*
+.vscode/*
+.env
+build/*
+grib2withmusor/*
+*.exe
+*.log
+*.txt
+out
+*.html
+log
+clickhouse_log
+parser_log
+*.csv
